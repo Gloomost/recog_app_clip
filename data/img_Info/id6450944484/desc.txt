@@ -1,0 +1,35 @@
+Welcome to our Healthy Living Assistant App! We are committed to helping you live a healthy, active and happy lifestyle.
+
+Our App provides a series of powerful functions designed to meet your health monitoring and management needs. The following are the main features of our App:
+1. Heart rate measurement and analysis:
+By using advanced heart rate monitoring technology, our app can accurately measure your heart rate and provide detailed analysis reports. You can monitor your heart rate at any time to see how it changes with different activities and emotional states. This helps you better manage stress, regulate exercise intensity, and improve heart health.
+2. Blood oxygen and blood pressure records:
+Our App provides a convenient blood oxygen and blood pressure recording function, and you can record your own blood oxygen saturation and blood pressure levels. This helps you monitor your body's oxygen supply and blood pressure fluctuations, as well as spot potential health problems early.
+3. Evaluation of HRV index:
+The HRV (Heart Rate Variability) Index is an important indicator of heart health and autonomic nervous system function. Our App can help you calculate and analyze your HRV index, understand your body's stress level and recovery ability. By monitoring changes in the HRV index, you can optimize your training plan, improve your sleep quality, and improve your body's overall adaptability.
+
+In addition to the above core functions, our App also provides the following features and advantages:
+- Track and record multiple health data to help you fully understand your health status.
+- Data analysis and trend display, presenting the changes and progress of your health data in a clear chart form.
+- Personalized suggestions and reminders, based on your data and goals, provide you with reasonable health plans and action suggestions to help you achieve your health goals.
+- Data sync and backup to keep your health data safe and secure, and seamlessly accessible on multiple devices.
+
+How to check your pulse with your finger:
+- First, make sure your fingers are not cold. When checking your pulse, make sure your fingertips completely cover the camera lens and camera flashlight.
+- Press lightly with your fingers. Pressing too hard may cause decreased blood flow, making it more difficult to obtain accurate results.
+
+Notice
+This app is not intended for medical use, it is for fitness purposes only.
+The app cannot measure blood pressure, oxygen levels, or body temperature.
+Any medical-related decisions should be made in consultation with a physician.
+
+We firmly believe that with our powerful healthy life assistant App, you will be able to better manage your health. Download our App now and start your health journey!
+
+Subscription
+- Choose from 3 subscription options, 1 week, 1 month or 1 year
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Privacy Policy: https://www.heartbeettoday.xyz/privacy.html
+Terms of Use:  https://www.heartbeettoday.xyz/terms.html

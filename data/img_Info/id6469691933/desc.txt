@@ -1,0 +1,22 @@
+Today Translate is a practical translation tool that will provide you with powerful translation functions. We provide multiple languages, text translation, voice translation and camera translation features that will give you a pleasant translation experience.
+
+You may need Today Translate when:
+--When you travel to a place where the local language is not familiar
+--When you need to learn a new language
+--When you need to communicate with people in an unfamiliar language
+
+Key features of Today Translate:
+• Text translation
+  Enter the text content you want to translate to get the translation result. This function is very suitable for the translation of words and short sentences.
+
+• Speech translation
+You can directly turn on the microphone and speak, and Today Translate will recognize what you say and translate it into the language you want.
+
+• Camera translation
+Directly take photos of pictures with text or import pictures from the album. Today Translate will recognize the text on the picture and complete the translation.
+
+• Multiple languages
+Multiple languages are supported.
+
+• Translation results
+Today Translate can directly play, copy, and bookmark translation results to help you better understand translation results.

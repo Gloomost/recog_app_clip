@@ -1,0 +1,1 @@
+The Player is a music player  for Android.Play audio track from local devicesEasy to support all music & audio file formats.You can manage your musics easily, Display play/pause, skip forward and stop in notification status.Headset/Bluetooth Controls.Lockscreen control support.Playlist shuffle, repeat modes and repeat one.Background music playback.

@@ -1,0 +1,26 @@
+Hexagon Tower Rabbit plays like a maze treasure hunt.
+
+game goals
+Find and collect as many treasures as possible in blocks of hexagonal blocks.
+
+Objects needed
+Game Board: A game board made of hexagonal squares, with each hexagon representing a neighborhood.
+Game character: It can be a chess piece, a marker representing a player, etc.
+Treasure tokens: can be coins, small gems, etc.
+game settings
+Arrange the game board: Arrange the hexagonal blocks on the table according to the rules to form a block grid. You can choose from pre-designed maps, or randomly arrange hexagons to create different neighborhoods.
+
+Place Treasures: Place treasure tokens randomly on various hexagonal blocks on the game board. You can set the number of treasures placed according to the difficulty of the game.
+
+game rules
+Movement: Players take turns. Each round, players can move to adjacent block hexagons, that is, move along the edges of the hexagons, and cannot jump to non-adjacent hexagons.
+
+Search for Treasure: When players enter a new neighborhood, they can choose to search the neighborhood. If there is treasure in that block, players can collect the treasure token and keep it. If there is no treasure, the round ends.
+
+Victory Condition: The game ends after a preset number of turns, or when all treasures have been collected. The player who ultimately wins is the one who collects the most treasures.
+
+Supplementary rules and variations
+Special abilities: Special abilities can be added to players, such as using props to see if there are treasures in a certain neighborhood.
+Difficulty adjustment: increase or decrease the number of treasures, adjust the map design or limit the number of moves to increase the difficulty of the game.
+Cooperation mode: Multi-player cooperative treasure hunting, working together to collect all treasures.
+Hostile mode: Players compete for treasures, and rules can be set so that players can snatch collected treasures from each other.

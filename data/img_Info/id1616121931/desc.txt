@@ -1,0 +1,23 @@
+ALLScan App: High quality QR code reader for decoding and generating barcodes/QR codes.
+
+With this ALLScan app, you can easily scan all common QR code formats: QR code, product barcode, website link, text, email, WiFi hotspot, business card, phone number, article number, fax, GS1 data column etc.
+
+It is also a QR code generator for text, URL, phone numbers, SMS, VCard, etc.
+
+AllScan function
+- Scan QR codes in photos: Detect and recognize all QR codes in images or photos from the iPhone gallery
+- Fast QR code scanner: display the result directly after scanning
+- Supports all formats: QR code scanner can be used in many formats, including QR code, barcode, CODE39, SMS, email, contact, phone number, Aztec, UPC, data matrix, business card, EAN, ISBN, etc.
+- Create and share QR codes: Generate, edit and share your QR codes to your social media such as Twitter, Facebook, Instagram, WhatsApp, etc.
+- QR code history management: You can view and delete scan codes or create records.
+- Offline Scanning: The QR code reader supports QR code/barcode scanning without internet.
+-VPN Function: Protects user scanning privacy and ensures a secure scanning environment
+
+ALLScan is your great choice for scanning and making QR codes or barcodes.
+Totally fast!
+===================
+contact us:
+If you have any questions, please send any mail to: Ericxu07@protonmail.com
+
+Privacy Policy: https://qrcode-scan.com/Privacy
+User Agreement: https://qrcode-scan.com/Service

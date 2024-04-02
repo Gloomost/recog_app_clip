@@ -1,0 +1,10 @@
+With this easy-to-use application, you will gain higher office efficiency, quickly generate or convert PDF documents in the most direct way, and reduce obstacles in your work or study. We always do our best to share your concerns.
+ 
+-Scan and take photos to generate PDF:
+By opening the built-in camera function of the device, take photos in real time and generate PDFs.
+-Convert photos to PDF:
+Read the photo album and select the desired photos, and quickly convert them to PDF format while maintaining document quality.
+-Create PDF from text:
+Click and create text, directly save the text in PDF format.
+-Quickly save PDFs:
+Our application has a PDF file recording function, when you successfully create a PDF file, it will be automatically saved to the history list for later viewing and use.

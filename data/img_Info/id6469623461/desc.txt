@@ -1,0 +1,2 @@
+HappyPokerLearn
+It have one picture of card with it name and also have one card posit side of equals and also have five cards at bottom of that screen now player can find correct card then drag &amp; drop it into second card.

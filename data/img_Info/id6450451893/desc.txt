@@ -1,0 +1,10 @@
+This is a QR code application that can really help you effectively. It can easily scan, create, and save QR codes without switching applications.
+ 
+With QR Antin, you can:
+- Scan various types of QR codes
+- Generate various types of QR codes
+- Store history offline
+- Open and use directly, no need to learn
+
+QR Antin has a powerful scanning recognition ability, it can easily and quickly decipher the content of the QR code, allowing you to get what you want in the first time. At the same time, it is also a multi-format QR code creation tool, such as email, contact, location, phone, WiFi, etc., it can be completed.
+QR Antin also has high security, the data you scan and create will be saved in your device, you can use and view the data with confidence.

@@ -1,0 +1,14 @@
+Hello! WiFi Eyes is an application that helps you understand your network status, providing you with network speed test, WiFi security test, viewing which devices are using your WiFi, etc.
+
+Please continue to view the function description of WiFi Eyes:
+1. Easily test network speed with one click: 
+  - Download speed, upload speed, ping, jitter and loss.
+2. Follow your WiFi security：
+  - View your WiFi security status and prompt you to set your WiFi password in a timely manner.
+3. View devices using WiFi
+4. Query IP information
+5. View device information
+6. Keep your test history:
+  - You can view past test records at any time.
+
+Welcome to use WiFi Eyes. We will continue to optimize the product to bring you a better user experience!

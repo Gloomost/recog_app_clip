@@ -1,0 +1,5 @@
+When you explore the mysterious continent in the game "Path of Exile", the role-playing role of the archer may be your first choice.
+To better understand and optimize your archer character, we offer you an app that will help you calculate and optimize your bow's elemental damage DPS (damage per second) and physical damage DPS.
+Elemental damage DPS calculation: Enter the base physical damage (basePhysicalDamage), attack speed (attackSpeed), additional physical damage (additionalPhysicalDamage) and elemental damage (elementalDamage) to get the elemental DPS of your archer character. This helps you gain insight into the impact of different equipment on output.
+Physical damage DPS calculation: If you prefer physical bows, we also provide physical DPS calculations. Just enter the base physical damage, attack speed and additional physical damage to get the DPS data of the physical bow.
+

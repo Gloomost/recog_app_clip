@@ -1,0 +1,21 @@
+In this app we can scan any QR code or barcode to get more information, including results from popular online services; Amazon, eBay, etc. We also have a QR code creation function to create various types of QRs to save and use.
+Features :
+* Scan QR code &amp; barcode using mobile camera
+* Scan from Gallery image with Barcode and QR
+* Add Favourite, History and Share Extra item
+* Create your own QR Code
+* Create some extra category QR
+* Very accurate and robust
+* Very Fast Scan
+Supported QR codes:
+• website links (URL)
+• contact data ( vCard)
+• Message
+• geo locations
+• phone call information
+• email, SMS and so on
+• Data Privacy
+Permission permissions are entirely up to your needs. If you need to scan any QR code or barcode with your camera, please grant the app camera permission. If you need to scan an image from the gallery, please grant permission only at that time.
+• Easily manage history
+All QR code records created by scanning are permanently saved, and the history list is easy to manage and clear the history of access locations and QR code links. To protect your privacy! Logs are only stored locally.
+If you have any questions, please contact us:blueliontechnology@protonmail.com, this can help us better optimize the product and improve the user experience.

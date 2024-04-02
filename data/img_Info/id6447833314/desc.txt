@@ -1,0 +1,7 @@
+Easy to use QR reader, ideal application for quick scanning of QR codes and barcodes!
+The application contains the following functions:
+- Can scan the product QR code to obtain the content information.
+- The product bar code can be scanned to obtain content information.
+- Can scan the QR code or bar code in the picture.
+- You can create your own QR standard code, including Email, phone, URL, text, etc.
+- Can create special codes that include Facebook, Instagram, Linkedin, Twitter, Youtube, App Store, etc...

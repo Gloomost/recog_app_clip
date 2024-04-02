@@ -1,0 +1,10 @@
+WiFi Planet is an app to check wifi speed status.
+Wifi Planet is a free wifi speed check application that can be used on the Wi-Fi you are currently using. It can help you easily test the speed of the currently connected wifi device to facilitate your Internet access.
+Test whether your WiFi is safe: When you are away from home, do not connect to unfamiliar WiFi at random, and ensure the safety of WiFi. Protect personal privacy and security.
+Ping Test: Ping is a network administration utility used to test the reachability of hosts on an IP network
+No matter where you are, we can provide you with wifi speed detection for free.
+
+Need wifi planet now?
+1. Open the wifi planet software
+2. Connect to the wifi you need to test, and then use the speed test function
+3. Done! You can see the speed of the current Wi-Fi test

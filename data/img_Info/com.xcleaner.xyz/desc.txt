@@ -1,0 +1,1 @@
+X Cleaner is an Android mobile phone junk cleaning app, which can clean up useless files such as App cache, advertising cache and so on Android phone.In addition to garbage cleaning, X Cleaner also provides the ability to view the running applications in the background, as well as battery health scanning and Wi-Fi security detection.

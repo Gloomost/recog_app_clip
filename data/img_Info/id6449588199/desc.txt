@@ -1,0 +1,1 @@
+A casual game app with four different modes: Save Pinball, Push Coin Machine, Compare Who's Bigger, Lucky 10 Points, Multiple gameplay, and Multiple Experiences. The app does not provide any gambling function and must be over 18 years old to play

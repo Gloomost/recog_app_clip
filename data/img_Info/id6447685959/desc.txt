@@ -1,0 +1,6 @@
+A QR code generator that meets scanning and creating needs, easy touse and full-featured.
+--One of the outstanding features is its speed. The app quicklyrecognizes the code and decodes it, allowing you to access the information youneed in the shortest possible time.
+--The all-in-one functional design is alsoone of the highlights. It integrates the three functions of scanning, creating,and recording and storing QR codes. Provide maximum convenience to users.
+--It can generate QR codes for varioustypes such as website links, texts, WiFi, phone calls, emails, and social mediaaccounts. At the same time, it can quickly and intelligently identify the typeof QR code and read the corresponding information.
+-- Easily scan and get information withoutconnecting to mobile Internet or WiFi.
+--History records are saved in real time,scanning and creation are recorded separately, making it easier to find.

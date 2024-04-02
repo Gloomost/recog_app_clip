@@ -1,0 +1,5 @@
+Speed Up Runner is a fast-paced endless running game where the goal is to navigate through an ever-changing series of obstacles which decrease or increase your speed. Players control a character who automatically runs forward, and must swipe left or right to avoid obstacles and gain speed. As the game progresses, the character have to compete with other players, which making the game more challenging and exciting.
+
+In Speed Up Runner, players can unlock new characters.. The game also features daily challenges and leaderboards, allowing players to compete against their friends and other players around the world.
+
+Overall, Speed Up Runner is a fun and addictive game that is perfect for players looking for a fast-paced challenge on the go.

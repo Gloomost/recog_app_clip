@@ -1,0 +1,26 @@
+Main Features:
+Discover Movies: Stay up to date with currently playing films, upcoming releases, and perform quick searches.
+Watch: Enjoy trailers and other related video content for an immersive movie experience.
+Extensive Film and TV Database: Access detailed information on each film or series, including high-quality posters, stills, cast and crew information, and diversity insights.
+Movie Viewing Statistics: Gain valuable insights into your movie preferences through visually appealing and intuitive charts.
+Create Personalized Movie Lists: Organize and categorize your favorite movies and series with custom lists.
+Share Beautiful Posters: Generate visually stunning posters to share with your friends and contacts.
+No Account Required: Start exploring movies without the need for account registration.
+
+Please note:
+This app utilizes the TMDB API but is not officially endorsed or certified by TMDB. Please review the TMDB API terms of use for more information: https://www.themoviedb.org/documentation/api/terms-of-use.
+All movie information and images are sourced from tmdb.org and licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+
+About Moviescape Premium Subscription Service Instructions
+Moviescape provides annual subscription plans and discounted purchases. The subscription prices are: $4.99/month, $9.99/3month, $19.99/year;
+- You can choose a monthly, 3 months or annual plan according to your actual usage.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Turn off auto-renew at least 24 hours before the end of the current subscription period, otherwise the subscription will automatically renew.
+- Your account will be charged for renewal 24 hours before the end of the current period, and the renewal fee will be determined.
+- Subscriptions may be managed by the user and auto-renewal may also be turned off in the user's Account Settings after purchase.
+- If any portion of the offered free trial period is unused, the unused portion will be void if the user purchases a subscription for that portion while on a trial basis.
+- Your subscription does not auto-renew after your purchase, the apps you can still use, the content you ordered after you subscribe, we can view any content that is not in normal use.
+
+The act of using our app implies your consent and agreement to our Privacy Policy and Terms of Use.
+Privacy Policy: http://cdnfile.sumoneunicom.cn/moviescape/privacypolicy.html
+Terms of use: http://cdnfile.sumoneunicom.cn/moviescape/termsofuse.html
