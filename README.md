@@ -1,1 +1,4 @@
-# clip_recog_app
+# recog_app_clip
+text_processing: keybert
+img_processing: merge
+clip:'ViT-B/32'
