@@ -1,0 +1,6 @@
+How to get started
+After the game is loaded, click the game interface - then click → - and then click level 1 to start the game
+Game goal
+Reasonable operation, smooth pass!
+Game introduction
+In the game, we need to click to control the blue Cyclops box to jump, when the cell number is 0, the cell disappears, your task is to eliminate all the number cells, now let's try!

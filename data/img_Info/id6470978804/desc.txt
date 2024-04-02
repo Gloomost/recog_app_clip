@@ -1,0 +1,2 @@
+Introduction to Blackjack Vertical Calculation:
+Blackjack Vertical Calculation is a unique blackjack game. Players need to use their intelligence to achieve as many blackjacks as possible. The cards in each column in the game will be added up separately. The sum of the numbers on the cards is exactly equal to 21 will be counted, and the game will end if it is greater than 21 three times. Among them, J=10, Q=10, K=10. There is also a mechanism to delete cards in the game. Come and try it!

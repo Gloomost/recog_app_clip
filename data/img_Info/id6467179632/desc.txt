@@ -1,0 +1,8 @@
+With this passport photo app, you can format or save passport photos in seconds.
+
+To produce the passport photos, a photo can be taken from the camera or loaded from the album. The next step is to adjust the picture by multi-touch gestures with your fingers (position, zoom and rotation).
+
+We do not accept any liability for the correctness, accuracy, or up-to-dateness of the ID photo templates. Please check that the templates are suitable for you before using them. You should also find out about passport photo regulations from the relevant authorities. In particular, make sure that the shot you take is correct and meets the current regulations.
+
+Terms of Use:https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy:https://sites.google.com/view/phlic1/privacypolicy

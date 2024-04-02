@@ -1,0 +1,1 @@
+This is a puzzle game. In the game, you can match or mix and match the same colors. As long as three of the same colors are matched or the same colors in the mix and match are connected, they can be eliminated. The ending of the game is either Pass the level or run out of blocks, what kind of ending will you be?

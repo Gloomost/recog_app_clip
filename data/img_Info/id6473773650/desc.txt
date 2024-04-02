@@ -1,0 +1,1 @@
+A new type of rock-paper-scissors, with multiple ways to play and side option design, giving you a new experience~

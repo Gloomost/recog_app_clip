@@ -1,0 +1,18 @@
+Introducing App Lock - the ultimate iPhone app manager and privacy protection tool.
+
+Take complete control over your app usage and ensure your privacy remains intact with App Locker. This powerful app provides a comprehensive suite of features designed to keep your personal information secure and your app activities private.
+
+With App Locker, you can conveniently manage and protect your apps with advanced locking mechanisms. Set specific time restrictions, implement password protection or fingerprint authentication, and enjoy the assurance that your apps are inaccessible to unauthorized individuals. App Locker gives you the power to define when and how your apps can be accessed, allowing you to maintain focus and manage your screen time effectively.
+
+App Locker goes the extra mile to protect your apps from unwanted removal. The app uninstall prevention feature ensures that no app can be uninstalled without your explicit permission. This added layer of security safeguards your apps from being accidentally or maliciously removed, giving you peace of mind.
+
+Account and password management is made simple and secure with App Locker. Safely store and manage your important accounts and passwords within the app, knowing that they are shielded from unauthorized changes and access. Your valuable credentials remain protected, allowing you to navigate the digital landscape with confidence.
+
+App Locker also empowers you to take control of in-app purchases. By denying in-app purchases, the app prevents accidental or unauthorized transactions that could lead to unexpected expenses. This feature not only protects your finances but also ensures responsible app usage.
+
+Experience the ultimate app management and privacy protection solution with App Locker. Download now to enjoy the benefits of enhanced privacy, secure app management, and peace of mind.
+
+---------------------------------------
+
+privacy policy url:   https://locker.uploss.net/privacy.html
+terms of service url:  https://locker.uploss.net/terms.html

@@ -1,0 +1,10 @@
+When it comes to the safety and security of the Internet, Pomelo Proxy is an essential tool. It encrypts your connection so that third parties can't track your online activity, making it more secure than a typical proxy.
+
+Pomelo Proxy properties:
+* Only One tap to connect with VPN proxy server.
+* No registration required, no settings required.
+* No speed limitation, no bandwidth limitation
+* No root access needed.
+* Encrypts your internet traffic.
+* Large number of servers, high-speed bandwidth.
+* No usage and time limit.

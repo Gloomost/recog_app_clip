@@ -1,0 +1,1 @@
+Going to hike is a travel / go recording app that allows you to record notes, travel dates, return dates, etc.

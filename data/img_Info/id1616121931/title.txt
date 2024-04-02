@@ -1,0 +1,1 @@
+AllScan : QR Code Reader

@@ -1,0 +1,4 @@
+Game description:
+The underwater world is full of all kinds of fantastic dreams, all kinds of small animals in order to pursue excitement, constantly adventure in the underwater world. When a group of small animals find a world full of colorful bubbles, they excitedly walk into the world full of bubbles, what kind of adventure or danger will the small animals encounter?
+Game rules:
+When small animals enter the bubble world, they are unfortunately sucked in by the bubble. As the bubble continues to rise, you need to click on the bubble of the same color to break the bubble and save the small animals inside. At the same time, other bubbles will fill the position of the broken bubble. Only when the corresponding number of small animals are rescued before the end of time can they be cleared and enter the next level.

@@ -1,0 +1,10 @@
+MiNi Box Widgets is a mobile application with beautiful design and practical functions, through which users can decorate their mobile phone interface. The app contains mobile desktop widgets, charging animations and beautiful wallpapers. The use process is very simple to operate, and users can freely match according to their own mood, making the mobile phone interface different from others!
+
+Product function introduction:
+- Choose from different types of desktop widgets
+- Widget types include clock, calendar, battery, etc.
+- You can set your favorite style when adding widgets
+- In order to make the charging process of the mobile phone interesting, you can add charging animation
+- If you want to change the desktop wallpaper of your mobile phone, you can also choose from here
+
+Download MiNi Box Widgets and start customizing your mobile desktop!

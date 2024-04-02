@@ -1,0 +1,18 @@
+This is an exciting puzzle game where you need to solve different puzzles and challenges by rotating the circle to find the gap. 
+
+ Game Features:
+
+- Simple and addictive gameplay is suitable for players of all ages.
+- Multiple difficulty levels and level designs ensure the game's challenge and entertainment.
+- Each level has unique goals and rules, keeping players engaged with a sense of novelty.
+- Beautiful graphics and immersive sound effects provide an engaging gaming experience.
+- Compete with friends, compare scores, and share your progress.
+
+Gameplay:
+
+- Players need to rotate the circle by touching the screen to align it perfectly with the gap.
+- The circle will display various colors or patterns that need to be aligned with the center target within a given time.
+- Each successful match increases the score and unlocks the next, more challenging level.
+- Pay attention to the time limit, try to complete the matches within the designated time, and avoid incorrect moves.
+
+This game offers fun and challenges while enhancing spatial cognition and reaction speed. Whether during leisure time or while traveling, you can enjoy this addictive game.

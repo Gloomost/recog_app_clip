@@ -1,0 +1,4 @@
+Gear Speed is a VPN proxy server to connect VPN anytime anywhere. No configuration is required, just one click, you can surf the Internet safely and anonymously to protect your privacy.
+advantage:
+- Intelligently select the best vpn node for you.
+- Use immediately without registration

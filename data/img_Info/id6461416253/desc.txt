@@ -1,0 +1,26 @@
+With Flixtools, you can:
+Uncover films tailored to your interests and viewing history.
+Deepen your movie knowledge with comprehensive details, including high-definition posters, stills, cast and crew information, and diversity insights.
+Monitor your movie-watching patterns with visually appealing and user-friendly charts.
+Craft personal movie lists and categorize your cherished films or series.
+Share your cinematic passion with friends using captivating sharing posters.
+And the best part? No account required!
+
+Don't wait any longer! Download LikeMovie today and embark on your cinematic journey!
+
+Please be aware:
+This app employs the TMDB API, but it is not officially endorsed or certified by TMDB. For more information, please review the TMDB API terms of use: https://www.themoviedb.org/documentation/api/terms-of-use. All movie information and images are obtained from tmdb.org and are licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+
+About Flixtools Premium Subscription Service Instructions
+Flixtools provides annual subscription plans and discounted purchases. The subscription prices are: $4.99/month, $9.99/3month, $19.99/year;
+- You can choose a monthly, 3 months or annual plan according to your actual usage.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Turn off auto-renew at least 24 hours before the end of the current subscription period, otherwise the subscription will automatically renew.
+- Your account will be charged for renewal 24 hours before the end of the current period, and the renewal fee will be determined.
+- Subscriptions may be managed by the user and auto-renewal may also be turned off in the user's Account Settings after purchase.
+- If any portion of the offered free trial period is unused, the unused portion will be void if the user purchases a subscription for that portion while on a trial basis.
+- Your subscription does not auto-renew after your purchase, the apps you can still use, the content you ordered after you subscribe, we can view any content that is not in normal use.
+
+Your utilization of our app serves as confirmation that you have read and agreed to our Privacy Policy and Terms of Use
+Privacy Policy: http://likemovie.xyz/LikeMovie_Privacy_Policy.html
+Terms of Use: http://likemovie.xyz/LikeMovie_Terms_of_Use.html

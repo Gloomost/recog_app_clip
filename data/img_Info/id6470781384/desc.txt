@@ -1,0 +1,1 @@
+This is a Chinese style solitaire mini game developed by Unity. You can experience the charm of solitaire in your leisure time. Perhaps you have more suggestions, please let me know in the comments section.

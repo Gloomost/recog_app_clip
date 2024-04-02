@@ -1,0 +1,4 @@
+Game description:
+Welcome to The cat eater! In this game, your goal is to cook delicious little fish. In the game, you can start cooking by clicking a number on the screen and then clicking the turn button. Now, are you ready to try cooking your own little fish?
+Game rules:
+This is a home cooking game, you need to click the number on the screen, and then click the turn button, start cooking, when the number in front of the fish lights up green, click the fish, the fish has been cooked, and into the plate, successfully cooked the corresponding number of fish, that is, success, otherwise fail.

@@ -1,0 +1,17 @@
+MateLink is a pioneering software tool that breathes life into AI virtual characters for Companion. Here, you can unlock boundless imagination and creativity, using AI technology to craft your unique virtual persona.
+Every virtual character you interact with can understand you, and more impressively, remember you.
+
+Features:
+1.  Engage in unrestricted conversations with AI Celebrities, anytime, anywhere
+2. Create and share your own AI, elevating your social impact
+3. Intimate Chat With AI Persona: Keep in Private, Straight to Your Point;
+4. Role Play: Who do you want “them” to be?
+
+Automatic subscription service instructions：
+1. Subscription service: MateLink Heart-Pounding Plan（1Month /1 Year）
+2. Subscription price: subject to IAP application information, for example, a continuous monthly subscription product is $19.99 per month. a continuous yearly subscription product is $69.99 per month.
+3. Payment: Subscriptions can be managed by the user, and the payment will be credited to the iTunes account after the user confirms the purchase and payment.
+4. Renewal: Apple's iTunes account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period.
+5. Cancel renewal: If you need to cancel your subscription, please open "Settings" on your Apple phone --&gt; Enter "iTunes Store and App Store" --&gt; Click "Apple ID", select "View Apple ID", and enter "Account Settings" page, click "Subscribe" and select "MateLink Heart-Pounding Plan" to cancel the subscription. If the subscription is not closed at least 24 hours before the end of the subscription period, this subscription will automatically renew.
+6. Privacy Policy：https://cdn-mate.matelink.com/web/service-en.html 
+7. User Agreement：https://cdn-mate.matelink.com/web/agreement-en.html  

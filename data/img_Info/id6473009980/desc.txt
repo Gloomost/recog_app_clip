@@ -1,0 +1,3 @@
+Sansle lives in a dangerous underwater world, facing danger every day. While searching for food, Sansle always maintains a high level of vigilance and is ready to face attacks from other creatures. Are you ready to fight for your own survival?
+
+Gaming: Players can control the player to move within a certain range. Players can use the character's head weapons to attack other enemies. Eliminating an enemy will increase the number of kills and points, as well as increase energy. When the energy reaches 10, the player will accelerate their movement. After the energy bar is used up, the player will resume normal movement speed. In the end, ensuring that the player is not attacked by enemies, they can earn higher points.

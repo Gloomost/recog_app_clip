@@ -1,0 +1,11 @@
+【Main Story Chapter Gameplay】
+Players need to actively attack enemies and avoid enemy attacks, collect gems to upgrade, constantly acquire skills and buffs in the levels. Players engage in a battle of endurance against a legion of monsters, fighting until the last moments before the battlefield closes. If you're still standing there, you can clear the level.
+
+【Challenge Chapter Gameplay】
+Having completed the first two chapters of the main story battles indicates that you have completed the beginner's training and can now embark on advanced trials. Each chapter in the challenge mode has five difficulty levels, offering talent points and accessories as rewards. The higher the difficulty, the better the rewards.
+
+【Equipment System】
+Players can obtain equipment in chapters or from the arsenal. Each equipment has six slots: weapon, armor, radar, fuel tank, engine, and control. Currently, there are six qualities of equipment: common, fine, excellent, outstanding, epic, and legendary. Lower-quality equipment can be evolved into higher-quality through synthesis. Players can automatically combine and match their own combat attributes.
+
+【Talent System】
+In intense battles against the legion of monsters, besides the power boost from equipment, there are also attribute bonuses from talents. Players earn gold coins and genes to illuminate talent points during actual combat. As their level grows, they can unlock higher-level talent points and gain extraordinary abilities.

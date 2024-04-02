@@ -1,0 +1,1 @@
+A dice game that allows you to compare the largest and smallest dice, and you can throw them as you like. The novel interface design gives you a new dice playing experience.

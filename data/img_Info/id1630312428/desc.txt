@@ -1,0 +1,68 @@
+Super Cleaner is a cleaning app designed for iPhone. The cleaning up process is simple and quick, easy to operate, it has a super cleaning ability. Users can clean up the storage space quickly, manage photo albums intelligently, organize contacts, test the internet speed, and has a private space to protect the phone more securely, backup phone contacts, photos, and videos easily.
+
+Functions:
+One-click cleanup of photos, videos, and contacts, saving phone storage space
+
+Clean up the album:
+- Choose a time point
+- Intelligently categorize photos, such as location, time, text
+- Organize photos by location
+- Show the number of albums
+- Remove duplicate photos
+- Delete similar pictures and videos
+- Remove blurry videos and pictures
+- Delete screenshots
+
+Compress
+-Compress photos and videos quickly
+-Offer different compress quality for user to choose
+
+Contacts management:
+- List contacts overview
+- Quickly delete contacts
+- Delete duplicate contacts
+- Merge contacts
+- Backup contacts
+- Organize incomplete contacts
+
+Clean up the calendar:
+Choose a time point and you can clean up past calendar events quickly
+
+Speed test:
+Test your internet speed and the data usage of download and upload
+
+Led display： 
+- Adjust the font size freely
+- Adjust text scroll speed
+- Powerful text function, create your own content
+- Provide you with a variety of font styles and font colors for you to choose
+
+Easy and simple flashlight：
+Three flash effects for you to choose from: normal, middle fast, SOS
+
+Reminders Management：
+Choose a time point and you can clean up past notes quickly.
+
+Abundant charging animations：
+A large number of high-definition animated charging wallpapers, one-click replacement, convenient to change and modify your charging screen
+
+4K Live Wallpapers：
+Colorful and high quality live wallpapers with various styles to decorate your home screen
+
+Secure Private space：
+You can set a password, add and delete private photos, videos, and contacts, and make your private information more secure
+
+Subscription pricing and terms：
+For unlocking all features and content, Premium Membership offers weekly payment subscription &amp; one-time purchase options.
+
+End of trial and subscription renewal：
+- Payment will be charged to iTunes Account at confirmation of purchases.
+- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+- Privacy Policy:
+http://appapi.ivorytowertech.net/privacystatement/supercleaner/privacyPolicy.html
+- Terms of Use:
+http://appapi.ivorytowertech.net/privacystatement/supercleaner/termsofuse.html

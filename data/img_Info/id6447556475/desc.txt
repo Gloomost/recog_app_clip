@@ -1,0 +1,45 @@
+Panda Translator is a powerful translation app that supports multiple languages, accents, and scenarios for fast and accurate translations.     It includes features like road sign translation, photo translation, and more to enhance overall efficiency.
+
+▶Features
+* Road Sign Translation:
+Understand local traffic rules and signs instantly for worry-free navigation.
+* Photo Translation:
+Get text from images like menus or signs for quick reference during travels.
+* Simultaneous Interpretation:
+Real-time voice translation for convenient communication with speakers of other languages.
+* Text Translation:
+Quickly translate input text for effortless cross-language communication.
+* Document Translation:
+Translate Word, PDF, and other documents efficiently in real-time.
+* Voice Translation:
+Speak the content for accurate and smooth communication.
+
+▶Application Scenarios
+Panda Translator is versatile, suitable for travel, work, study, and daily life.
+* Travel: Use it for road sign and photo translation to enhance your travel experience.
+* Work and Study: Utilize text and voice translation for seamless cross-language communication and academic research.
+* Daily Life: Enhance everyday conversations with Panda Translator, making life more relaxed and enjoyable.
+
+▶Target Users
+* Students:
+Perfect for word lookup, translation, and oral practice.
+* Business Pros:
+Handy for business voice translation, email translation, and sending to clients.
+* Travel Enthusiasts:
+Facilitates communication in different languages, offering common phrases for various situations.
+* Online Chatters:
+Translates your native language for direct sharing on social apps.
+* Interpreters:
+Your on-the-go translation assistant for various scenarios.
+Panda Translator not only provides multilingual translation but also offers practical features like automatic correction, error correction, and personalized services.     Ensuring accurate results, it automatically saves and backs up user translation history for easy reference.     In today's society, where language communication is essential, Panda Translator serves as a versatile tool for language translation and communication, promising broad market prospects.     Future developments will focus on technological innovation and service optimization, delivering more intelligent, convenient, and personalized translation experiences for users.
+
+【VIP】
+- Duration: 12 months/year (continuous annual subscription).
+- Price: 128 CNY per year, with a 3-day free trial.     You can cancel anytime during the trial.
+- Payment: Charged to your iTunes account upon confirmation.
+- Renewal: Automatically deducted 24 hours before expiration.     Keep track of subscription and charges.
+- Cancellation: Cancel auto-renewal 24 hours before the current period ends.
+- Method: For Apple ID subscriptions, go to ""Settings"" - ""iTunes &amp; App Store"" - ""Apple ID"" - ""Subscriptions"" to cancel.
+
+Privacy Policy：https://doc.chongyunpowu.com/easytranslateios/jianyifanyi_privacy.html
+Term of Use：https://doc.chongyunpowu.com/easytranslateios/jianyifanyi_useragreement.html

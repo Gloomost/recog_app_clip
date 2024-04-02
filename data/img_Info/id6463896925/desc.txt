@@ -1,0 +1,5 @@
+The main goal of this app is to teach the concept of Fourier Series, while also demonstrating some of its practical applications in music such as sound analysis and additive synthesis.
+
+There are 3 modules with bite-sized, simple explanations about the Fourier Series and some of its key concepts, and in each module there's a live view that demonstrates what has been learned with some audio examples, consisting of a bank of 8 sine oscillators and their respective waveform views.
+
+Finally, the last page comes loaded with a couple of predefined "instrument approximations" using this oscillator bank, and also lets you individually manipulate each of the oscillators' volume levels, allowing you to mutate these approximations and come up with novel sounds. In case things get out of hand, there are Stop and Reset buttons to rescue you and your ears.

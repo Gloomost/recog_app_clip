@@ -1,0 +1,15 @@
+【Dungeon Overlord】is a Roguelike strategy tower defense game with too many elements, adding a unique turn-based operation mechanism based on general tower defense and integrating Roguelike and self-propelled chess gameplay into it. 
+After clearing each wave of enemies, you can choose a new card. Every three of the same cards can help you upgrade your tower. You also have the possibility to get some weapons, which will greatly enhance your tower's ability. (Actually, these towers are called monsters in the game)
+Well, do you have the confidence to complete the challenge?
+
+Features:
+● Stylized portraits of monsters, perhaps it could be called art?
+● Dozens of monsters with powerful abilities are now under your command
+● It's better to focus on upgrading one monster in one game.
+● During each game, you will encounter random events.
+● Don't forget to strengthen your monsters outside of the combat.
+● Successfully guarding the core crystal is a victory.
+
+Follow Us:
+● Discord: https://discord.com/invite/dc5zmgzJjT
+● Facebook: https://www.facebook.com/DungeonOverlordGlobal

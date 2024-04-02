@@ -1,0 +1,1 @@
+A calculator for working with yards, feet, and inches - especially for kilt-makers. The App mainly contains 3 modules: Math Calculator, Apron/Pleat Splits Calculator and Pleats Calculator. App provides convenient calculation for the production of kilt.

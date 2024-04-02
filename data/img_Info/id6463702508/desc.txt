@@ -1,0 +1,1 @@
+This is an application that can introduce food making. Users can view the food making process shared by others, share their own food making process with other users, and add it to the favorites list for easy viewing at any time

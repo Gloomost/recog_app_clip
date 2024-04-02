@@ -1,0 +1,2 @@
+This is an app that records emotions. When various emotions occur, they can be recorded on the app. Also, when emotions affect
+When you go to yourself but can't notice it, you can also record it through the App, manifest it through words, and slowly perceive what the emotions that affect you are.

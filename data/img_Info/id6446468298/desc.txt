@@ -1,0 +1,12 @@
+To meet the needs of language translation, Bread Translator integrates text translation, photo translation, and audio translation to help users learn and communicate better in daily life.
+
+Functional characteristics：
+-Text translation
+Users can manually input languages for translation. We have configured language packages for users from various countries and regions to meet different language requirements.
+-Photo translation
+When users want to translate text on an item, they can try photo translation, take a photo directly or select an image from the phone's album. Our system will recognize the text in the picture and translate it.
+-Speech translation
+If users feel that manual input is too troublesome, they can try voice input, free hands at the same time, our intelligent recognition system can quickly recognize speech for translation and conversion.
+-Desktop Widget
+In order to meet the needs of users' daily learning and recording, we provide desktop components, which users can write language words and sentences on and put them on the mobile desktop for convenient review at any time. Or you can record important events as reminders. It contains a variety of editing methods, users can match and combine their own satisfactory style.
+Language translation is very simple, download experience to use!

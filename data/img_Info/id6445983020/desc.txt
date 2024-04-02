@@ -1,0 +1,17 @@
+My WiFi : Everyone's WiFi Assistant
+
+My WiFi features.
+Quickly check your IP information. No more fumbling around when you need to determine your IP! (This interface costs money, it's really necessary)
+
+Internet speed test: test the speed of the network, quickly understand the current network situation.
+Ping too high do not play online games, so as not to affect the mood.
+
+Ping Test: Conduct Ping Test and give us real-time feedback on the results!
+
+Security Test: Conduct a security test of the current WiFi. Test the password of the current WiFi. Analyze whether it is secure or not.
+
+Device Scan: Check the information of the devices connected to my WiFi! (My neighbors are constantly rubbing the Internet! (Holy light will sanction him!)
+
+The current version of My WiFi is developed entirely according to my daily needs, and personally I think it's still very well done, and the pages look great!
+I hope you can make some more suggestions! I will always read your suggestions and make changes, but don't scold me! (I am very weak inside)
+If I can get good comments from everyone, I will be very happy and more motivated to develop!
